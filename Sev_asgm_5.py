@@ -1,3 +1,4 @@
+#counting averages in a loop
 count = 0
 total = 0
 while True:
